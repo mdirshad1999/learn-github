@@ -1,2 +1,2 @@
 # learn-github
-Author-Irshad alam
+Author-Irshad alam (frontend developer)
